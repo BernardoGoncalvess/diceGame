@@ -11,3 +11,5 @@ This is my little project called Dice Game! 🙌
 ## Desktop view 🖥️:
 
 ![PROJECTIMAGE](imgs/project.png)
+
+I hope you like it! 🎉
