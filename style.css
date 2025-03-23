@@ -8,10 +8,19 @@ body {
 #container {
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     margin-top: 55px;
     color: #D0DDD0;
     font-size: 35px;
+}
+
+#container p {
+    font-size: 25px;
+}
+
+.refresh {
+    color: #B17F59;
 }
 
 #imgs {
@@ -47,5 +56,5 @@ footer {
 }
 
 span {
-    color: #D0DDD0;
+    color: #B17F59;
 }
